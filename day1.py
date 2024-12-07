@@ -9,7 +9,7 @@ for i in range(len(lines)):
     list2.append(int(lines[i].split(" ")[-1]))
 list1.sort()
 list2.sort()
-#pat1
+#part1
 total=0
 
 for i in range(len(list1)):
